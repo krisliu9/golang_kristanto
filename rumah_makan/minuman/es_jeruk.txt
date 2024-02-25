@@ -1,2 +1,1 @@
-bahan:
-harga:
+harga: 7000
